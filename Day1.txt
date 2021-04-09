@@ -1,0 +1,5 @@
+Done with
+1.github account
+2.git installed
+3.webMethods Service Development
+SQL ServerDeveloper Edition & management studio
